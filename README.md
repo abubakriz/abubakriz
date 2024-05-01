@@ -4,7 +4,7 @@
 
 👋 I'm Abu Bakr.  
 👶 I've been a programmer since I was twelve.  
-🔧 I build software that solves problems.  
+🔧 I want to build software that solves problems.  
 🎒 I'm currently a student at University of Tripoli.
 
 ## 🛠️ What's on my toolbelt?
