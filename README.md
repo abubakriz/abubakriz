@@ -1,5 +1,3 @@
-<!-- Generated using https://git.io/typing-svg -->
-
 # ![Creating Solutions with Software](https://readme-typing-svg.herokuapp.com?font=Petrona&weight=700&size=32&height=32&width=500&vCenter=true&duration=2000&color=FFFFFF&repeat=false&lines=Creating+Solutions+with+Software)
 
 👋 I'm Abu Bakr.  
